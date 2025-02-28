@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Council of Nicaea",
+        "type": "council",
+        "date": "0325-01-01",
+        "origin": "Nicaea",
+        "text": "The First Council of Nicaea was a council of Christian bishops...",
+        "summary": "The first ecumenical council of the Christian Church.",
+        "language": "Greek"
+    },
+    {
+        "id": 2,
+        "title": "Council of Chalcedon",
+        "type": "council",
+        "date": "0451-01-01",
+        "origin": "Chalcedon",
+        "text": "The Council of Chalcedon was a church council held from October 8...",
+        "summary": "An important church council that defined the two natures of Christ.",
+        "language": "Greek"
+    }
+]

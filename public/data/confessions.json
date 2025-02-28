@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Augsburg Confession",
+        "type": "confession",
+        "date": "1530-06-25",
+        "origin": "Augsburg",
+        "text": "The Augsburg Confession is the primary confession of faith...",
+        "summary": "The primary confession of faith of the Lutheran Church.",
+        "language": "German"
+    },
+    {
+        "id": 2,
+        "title": "Westminster Confession of Faith",
+        "type": "confession",
+        "date": "1647-01-01",
+        "origin": "Westminster",
+        "text": "The Westminster Confession of Faith is a Reformed confession...",
+        "summary": "A confession of faith of Reformed churches.",
+        "language": "English"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Apostles' Creed",
+        "type": "creed",
+        "date": "Unknown",
+        "origin": "Various",
+        "text": "I believe in God, the Father almighty, creator of heaven and earth.\n\nI believe in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit and born of the virgin Mary. He suffered under Pontius Pilate, was crucified, died, and was buried; he descended to hell. The third day he rose again from the dead. He ascended to heaven and is seated at the right hand of God the Father almighty. From there he will come to judge the living and the dead.\n\nI believe in the Holy Spirit, the holy catholic* church, the communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. Amen.\n\n*that is, the true Christian church of all times and all places",
+        "summary": "One of the earliest creeds of Christianity.",
+        "language": "Latin"
+    },
+    {
+        "id": 2,
+        "title": "Nicene Creed",
+        "type": "creed",
+        "date": "0325-01-01",
+        "origin": "Nicaea",
+        "text": "I believe in one God, the Father Almighty, Maker of heaven and earth, and of all things visible and invisible.\n\nAnd in one Lord Jesus Christ, the only-begotten Son of God, begotten of the Father before all worlds; God of God, Light of Light, very God of very God; begotten, not made, being of one substance with the Father, by whom all things were made.\n\nWho, for us men and for our salvation, came down from heaven, and was incarnate by the Holy Spirit of the Virgin Mary, and was made man; and was crucified also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with glory, to judge the quick and the dead; whose kingdom shall have no end.\n\nAnd I believe in the Holy Ghost, the Lord and Giver of Life; who proceeds from the Father and the Son; who with the Father and the Son together is worshiped and glorified; who spoke by the prophets. And I believe in one holy catholic and apostolic Church. I acknowledge one baptism for the remission of sins; and I look for the resurrection of the dead, and the life of the world to come. Amen.",
+        "summary": "The Nicene Creed is a vital and universally accepted statement of Christian faith, originally formulated at the First Council of Nicaea in AD 325 and later revised at the First Council of Constantinople in AD 381. Convened by Emperor Constantine to address the Arian controversy, the creed affirms the full divinity of Jesus Christ and the Holy Spirit, establishing the doctrine of the Trinity. By emphasizing that Jesus is \"begotten, not made\" and \"of one substance with the Father,\" the creed rejects Arianism and asserts Christ's co-equality and co-eternity with the Father. This doctrinal foundation has had lasting implications for church unity and theology, safeguarding orthodox beliefs and shaping Christian identity. The Nicene Creed continues to be recited in worship services across various denominations, including Roman Catholic, Eastern Orthodox, Anglican, and Protestant churches, serving as a doctrinal safeguard and a proclamation of the gospel message that salvation is found in Christ alone.",
+        "language": "Greek"
+    }
+]
+

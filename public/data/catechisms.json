@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Heidelberg Catechism",
+        "type": "catechism",
+        "date": "1563-01-01",
+        "origin": "Heidelberg",
+        "text": "The Heidelberg Catechism is a document used in Reformed Christian...",
+        "summary": "A Reformed confession of faith in the form of a catechism.",
+        "language": "German"
+    },
+    {
+        "id": 2,
+        "title": "Luther's Small Catechism",
+        "type": "catechism",
+        "date": "1529-01-01",
+        "origin": "Germany",
+        "text": "Luther's Small Catechism is a catechism written by Martin Luther...",
+        "summary": "A catechism written by Martin Luther for educating children.",
+        "language": "German"
+    }
+]
