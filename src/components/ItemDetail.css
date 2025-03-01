@@ -26,6 +26,10 @@
 .item-detail pre {
     white-space: pre-wrap; /* Ensure text wraps within the card */
     word-wrap: break-word; /* Prevent overflow */
+    background-color: #f0f0f0; /* Light grey background for readability */
+    padding: 15px; /* Add padding for better text spacing */
+    border-radius: 5px; /* Round the corners of the text background */
+    border: 1px solid #ddd; /* Add a subtle border around the text */
 }
 
 .nav-link {
